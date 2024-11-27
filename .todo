@@ -1,0 +1,55 @@
+# Process RH
+
+## Authentification RH
+
+### Affichage
+
+[ ] Login
+[ ] Accueil
+    [ ] Navbar
+        [ ] Employee
+            [ ] Liste des employee
+                [ ] Detail employee
+                [ ] Voir Contrat
+        [ ] Conge
+            [ ] Liste des demandes de conge
+        [ ] Contrat
+            [ ] Liste utilisateurs valider apres entretient
+                [ ] Etablir contrat
+                [ ] Matricule emp vaovao
+        [ ] Paye
+            [ ] Etat de paie
+            [ ] Fiche de paie
+            [ ] Montant de tout compte
+
+## Classification
+
+### affichage_classification
+
+### metier_classification
+
+### base_classification
+
+## Conge
+
+### affichage_conge
+
+### metier_conge
+
+### base_conge
+
+## Contrat
+
+### affichage_contrat
+
+### metier_contrat
+
+### base_contrat
+
+## Rupture de contrat
+
+### affichage_rupture
+
+### metier_rupture
+
+### base_rupture
