@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<module.rh>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "mg.itu.company.module.rh.Application",
+            "projectName": "module.rh",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-GestionrhApplication<module.rh>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "itu.gestionrh.GestionrhApplication",
+            "projectName": "module.rh",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
